@@ -1,0 +1,8 @@
+server:
+  port: 8083
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://sergey:vashenko@cluster0-zdqsh.mongodb.net
+      database: test-test-test

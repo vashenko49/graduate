@@ -1,0 +1,5 @@
+.track {
+    max-height: 250px;
+    overflow-x: auto;
+    padding: 5px;
+}
